@@ -1,5 +1,5 @@
 # Generative-AI-in-Computer-Vision-ELI5-Guide
- ![GAN diagram](https://github.com/mariammouh/Generative-AI-in-Computer-Vision-ELI5-Guide/blob/main/images/blue_gini) 
+ ![GAN diagram](https://github.com/mariammouh/Generative-AI-in-Computer-Vision-ELI5-Guide/blob/main/images/blue_gini.png) 
 ## What is Generative AI in Computer Vision?
 Computer Vision (CV) is the field of AI that teaches machines to see and understand images. Traditional CV can look at a photo and say "that's a cat" but it can't create anything new.
 Generative AI in CV goes one step further: it can create brand new images from scratch.
